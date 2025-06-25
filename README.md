@@ -97,7 +97,7 @@ Contributions are welcome! To contribute:
 
 ## License 📄
 
-This project is for educational and personal use. Add a license section if you wish to specify usage rights.
+This project is proprietary and maintained by the RBX Team. Unauthorized copying, distribution, or use is prohibited. For licensing or usage inquiries, please contact the RBX Team.
 
 ---
 
